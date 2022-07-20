@@ -3,7 +3,7 @@
 const data = [
   {
     id: 1,
-    img: "./img/jaqueta.avg",
+    img: "./img/jaqueta.svg",
     nameItem: "Lightweight Jacket",
     description:
       "Adicione um pouco de energia ao seu guarda-roupa de inverno com esta jaqueta vibrante...",
@@ -13,7 +13,7 @@ const data = [
   },
   {
     id: 2,
-    img: "./img/gorro.avg",
+    img: "./img/gorro.svg",
     nameItem: "Black Hat",
     description:
       "O gorro Next.js chegou! Esta beldade bordada tem um ajuste confortável que garante que...",
@@ -23,7 +23,7 @@ const data = [
   },
   {
     id: 3,
-    img: "./img/mascara.avg",
+    img: "./img/mascara.svg",
     nameItem: "Mask",
     description:
       "Esta máscara facial durável é feita de duas camadas de tecido tratado e possui presilhas...",
@@ -33,7 +33,7 @@ const data = [
   },
   {
     id: 4,
-    img: "./img/camiseta_preta.avg",
+    img: "./img/camiseta_preta.svg",
     nameItem: "T-Shirt",
     description:
       "Esta t-shirt é imprescindível no seu guarda-roupa, combinando o caimento intemporal de...",
