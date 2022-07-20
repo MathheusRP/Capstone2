@@ -1,9 +1,6 @@
 const listaProduto = document.querySelector ('.produtoList')
 const compras = document.querySelector('.lista')
-// let teste = document.createElement ('li')
 let somaCarrinho = document.querySelector ('.total')
-
-
 
 
 function listarProdutos(lista, local){
